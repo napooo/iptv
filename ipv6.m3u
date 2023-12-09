@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道",CCTV-2 财经
